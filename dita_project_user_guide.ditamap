@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>DITA project user guide</title>
+    <topicref href="topics/starting_right.dita">
+        <topicref href="topics/best_practices.dita"/>
+        <topicref href="topics/More_hp_resources.dita"/>
+    </topicref>
+    <topicref href="reference/getting_to_know_your_computer.dita">
+        <topicref href="reference/finding_hardware_and_software_info.dita"/>
+        <topicref href="reference/front.dita"/>
+        <topicref href="reference/right_side.dita"/>
+        <topicref href="reference/leftside.dita"/>
+    </topicref>
+    <topicref href="concept/connecting%20to%20a%20network.dita">
+        <topicref href="task/using_hp_control_manager.dita"/>
+        <topicref href="task/using_operating_system_controls.dita"/>
+        <topicref href="task/Setting%20up%20a%20WLAN.dita"/>
+        <topicref href="task/connecting_to_a_WLAN.dita"/>
+        <topicref href="task/connecting_to_LAN.dita"/>
+    </topicref>
+    <topichead navtitle="Trouble shooting" audience="expert" platform="windows" product="product1">
+        <topicref href="trouble%20shooting/device_not_responding.dita"/>
+        <topicref href="trouble%20shooting/blue_screen_error.dita"/>
+    </topichead>
+    <topicref href="glossary/glossary.dita">
+        <topicref href="glossary/wlan.dita"/>
+        <topicref href="glossary/lan.dita"/>
+        <topicref href="glossary/hdmi.dita"/>
+    </topicref>
+</map>
