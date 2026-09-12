@@ -2,7 +2,7 @@
 Sample technical documentation project created using DITA XML and Oxygen XML Editor.
 DITA User Guide — Technical Writing Sample
 
-** Overview**
+**Overview**
 
 This repository contains a sample user guide developed using DITA XML. The project demonstrates structured authoring, topic-based documentation, information architecture, and technical documentation practices.
 
@@ -37,8 +37,8 @@ glossary— Glossary and terminology content
 images — Documentation images
 
 ditamap — DITA map defining the documentation structure
-**
-Tools and Technologies**
+
+**Tools and Technologies**
 
 •	DITA XML
 
@@ -70,7 +70,7 @@ Skills Demonstrated
 
 •	Documentation build and publishing workflows
 
-** Sample Project**
+**Sample Project**
 
 The repository contains the source DITA files used to create the documentation sample.
 
