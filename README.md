@@ -9,8 +9,11 @@ This repository contains a sample user guide developed using DITA XML. The proje
 Project Highlights
 
 •	Developed structured documentation using DITA XML
+
 •	Created concept, task, reference, and troubleshooting topics
+
 •	Created and organized a DITA map
+
 •	Used reusable DITA topics and structured content
 •	Added supporting images and documentation assets
 •	Generated documentation output using DITA tooling
