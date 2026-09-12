@@ -1,4 +1,4 @@
-# DITA-user-guide-sample
+# DITA-Sample User Guide
 Sample technical documentation project created using DITA XML and Oxygen XML Editor.
 DITA User Guide — Technical Writing Sample
 
