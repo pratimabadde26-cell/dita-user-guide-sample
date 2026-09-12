@@ -15,7 +15,9 @@ Project Highlights
 •	Created and organized a DITA map
 
 •	Used reusable DITA topics and structured content
+
 •	Added supporting images and documentation assets
+
 •	Generated documentation output using DITA tooling
 
  DITA Content Structure
