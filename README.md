@@ -23,32 +23,51 @@ Project Highlights
  DITA Content Structure
 
 concept — Conceptual information
+
 task— Task-based procedures and instructions
+
 reference — Reference information
+
 topics— General informational topics
+
 troubleshooting — Troubleshooting documentation
+
 glossary— Glossary and terminology content
+
 images — Documentation images
+
 ditamap — DITA map defining the documentation structure
 
 Tools and Technologies
 
 •	DITA XML
+
 •	Oxygen XML Editor
+
 •	XML
+
 •	Structured Authoring
+
 •	Technical Documentation
+
 •	Information Architecture
 
 Skills Demonstrated
 
 •	Topic-based authoring
+
 •	Structured writing
+
 •	Task and procedure documentation
+
 •	Reference documentation
+
 •	Troubleshooting documentation
+
 •	Content organization
+
 •	DITA information typing
+
 •	Documentation build and publishing workflows
 
  Sample Project
