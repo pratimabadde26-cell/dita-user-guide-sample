@@ -20,7 +20,7 @@ This repository contains a sample user guide developed using DITA XML. The proje
 
 •	Generated documentation output using DITA tooling
 
-** DITA Content Structure**
+**DITA Content Structure**
 
 concept — Conceptual information
 
